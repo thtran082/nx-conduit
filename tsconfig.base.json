@@ -15,7 +15,9 @@
     "skipDefaultLibCheck": true,
     "baseUrl": ".",
     "paths": {
-      "@nx-setthing/core/shared/data-access": ["libs/core/shared/data-access/src/index.ts"]
+      "@nx-setthing/core/shared/data-access": [
+        "libs/core/shared/data-access/src/index.ts"
+      ]
     }
   },
   "exclude": ["node_modules", "tmp"]
